@@ -20,3 +20,7 @@ function booking_uninstall() {
 // Вызываем функцию при деинсталляции плагина
 booking_uninstall();
 ?>
+https://sk8work.ru/new-akakul/wp-admin/
+https://sk8work.ru/new-akakul/wp-admin/
+sk8work
+1234
