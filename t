@@ -25,3 +25,4 @@ https://sk8work.ru/new-akakul/wp-admin/
 sk8work
 1234
 [wfm_booking_form]
+https://free.sprinthost.ru/
