@@ -27,3 +27,4 @@ sk8work
 [wfm_booking_form]
 https://free.sprinthost.ru/
 https://sweb.ru/hosting/cheap/?utm_source=yandex&utm_medium=cpc&utm_campaign=hosting_cpa_cheap&utm_term=SKIDKA30&utm_content=5531303198|16773978894&yclid=13124911466306338815
+select * from zabbh_woocommerce_bookings
