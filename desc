@@ -11,7 +11,6 @@ akakul_booking_frontend_enqueue_styles() - подключает CSS для фр�
 akakul_booking_enqueue_scripts() - подключает JavaScript и библиотеку jQuery Mask Plugin для маски ввода телефона
 
 Работа с базой данных:
-
 create_booking_table() - создает таблицу woocommerce_bookings при активации плагина
 delete_booking_table() - удаляет таблицу при удалении плагина
 
