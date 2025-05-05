@@ -23,7 +23,6 @@ booking_uninstall();
 https://sk8work.ru/new-akakul/wp-admin/
 https://sk8work.ru/new-akakul/wp-admin/
 sk8work
-1234
 [wfm_booking_form]
 https://free.sprinthost.ru/
 https://sweb.ru/hosting/cheap/?utm_source=yandex&utm_medium=cpc&utm_campaign=hosting_cpa_cheap&utm_term=SKIDKA30&utm_content=5531303198|16773978894&yclid=13124911466306338815
